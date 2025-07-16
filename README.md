@@ -43,6 +43,6 @@ A digital clock that:
 
 ---
 
-## Tech Stack
+## Tech Stack and Learnings
 
-**Tools Used:** Verilog, ModelSim / Vivado Simulator, Digital Logic, Finite State Machines (FSM)
+Verilog, GTKWave, Digital Logic, Finite State Machines (FSM)
